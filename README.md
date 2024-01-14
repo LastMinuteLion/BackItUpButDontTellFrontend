@@ -6,4 +6,3 @@
 
 
 
-1st Project is a Todo backend.
